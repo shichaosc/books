@@ -1,4 +1,4 @@
-# I-love-reading
+# books
 ![主页](static/img/home.png)
 
 ![分类](static/img/category.png)
