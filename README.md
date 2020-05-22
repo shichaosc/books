@@ -20,6 +20,4 @@
 3. /etc/init.d/nginx start
 
 # Nginx ssl
-1. 阿里云申请签名（搜索安全）
-2. 修改nginx中config.d中的ssl.config
-3. 修改.pem和.key文件的位置
+通过certbot申请
